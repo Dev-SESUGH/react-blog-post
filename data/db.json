@@ -1,0 +1,17 @@
+{
+  "blogs": [
+    {
+      "title": "My first blog",
+      "body": "Hopefully you get to enjoy the new full ride",
+      "author": "Mario",
+      "id": 1
+    },
+
+    {
+      "title": "My second blog",
+      "body": "Hopefully you get to enjoy the new full ride",
+      "author": "Sass",
+      "id": 2
+    }
+  ]
+}
